@@ -17,7 +17,11 @@ Parametric CAD assemblies, CAM workflows, and hardware-software integration loop
 │   ├── <a href="./NUSTARS-rocketry/models/">models/</a>
 │   └── <a href="./NUSTARS-rocketry/assets/">assets/</a>
 │
-└── summer-network-ai/         &lt;-- Powell Watson network & chatbot documentation
+| summer-robot-proposition 2025/         &lt;-- EXCEL McCormick School
+|   ├── <a href="./summer-network-ai/README.md">README.md</a>
+|   └── <a href="./summer-network-ai/assets/">assets/</a>
+|
+└── summer-network-ai 2026/         &lt;-- Powell Watson network & chatbot documentation
     ├── <a href="./summer-network-ai/README.md">README.md</a>
     └── <a href="./summer-network-ai/assets/">assets/</a>
 </pre>
