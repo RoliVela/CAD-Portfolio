@@ -7,9 +7,9 @@ Parametric CAD assemblies, CAM workflows, and hardware-software integration loop
 ├── README.md                  <-- The main showroom for the whole profile
 │
 ├── DTC-assistive-devices/     <-- Wheelchair propulsion & flexure models
-│   ├── README.md
-│   ├── models/
-│   └── assets/
+│   ├── [README.md](./DTC-assistive-devices/README.md)
+│   ├── [models/](./DTC-assistive-devices/models/)
+│   └── [assets/](./DTC-assistive-devices/assets/)
 │
 ├── NUSTARS-rocketry/          <-- Rocket fin geometries & CAM workflows
 │   ├── README.md
