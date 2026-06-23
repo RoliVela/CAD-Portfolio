@@ -1,22 +1,23 @@
 # CAD-Portfolio
+
 Parametric CAD assemblies, CAM workflows, and hardware-software integration loops. Production-grade designs optimized for CNC machining, 3D printing, and real-world structural flight loads. These were used in school and personal projects with features in school publications and national competitions.
 
-```text
+<pre>
 .
 ├── .gitignore
-├── README.md                  <-- The main showroom for the whole profile
+├── README.md                  &lt;-- The main showroom for the whole profile
 │
-├── DTC-assistive-devices/     <-- Wheelchair propulsion & flexure models
-│   ├── [README.md](./DTC-assistive-devices/README.md)
-│   ├── [models/](./DTC-assistive-devices/models/)
-│   └── [assets/](./DTC-assistive-devices/assets/)
+├── DTC-assistive-devices/     &lt;-- Wheelchair propulsion & flexure models
+│   ├── <a href="./DTC-assistive-devices/README.md">README.md</a>
+│   ├── <a href="./DTC-assistive-devices/models/">models/</a>
+│   └── <a href="./DTC-assistive-devices/assets/">assets/</a>
 │
-├── NUSTARS-rocketry/          <-- Rocket fin geometries & CAM workflows
-│   ├── README.md
-│   ├── models/
-│   └── assets/
+├── NUSTARS-rocketry/          &lt;-- Rocket fin geometries & CAM workflows
+│   ├── <a href="./NUSTARS-rocketry/README.md">README.md</a>
+│   ├── <a href="./NUSTARS-rocketry/models/">models/</a>
+│   └── <a href="./NUSTARS-rocketry/assets/">assets/</a>
 │
-└── summer-network-ai/         <-- Powell Watson network & chatbot documentation
-    ├── README.md
-    └── assets/
-```
+└── summer-network-ai/         &lt;-- Powell Watson network & chatbot documentation
+    ├── <a href="./summer-network-ai/README.md">README.md</a>
+    └── <a href="./summer-network-ai/assets/">assets/</a>
+</pre>
