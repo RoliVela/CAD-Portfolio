@@ -9,15 +9,21 @@ Parametric CAD assemblies, CAM workflows, and hardware-software integration loop
 │
 ├── DTC-assistive-devices/     &lt;-- Wheelchair propulsion & flexure models
 │   ├── <a href="./DTC-assistive-devices/README.md">README.md</a>
-│   ├── <a href="./DTC-assistive-devices/models/">models/</a>
-│   └── <a href="./DTC-assistive-devices/assets/">assets/</a>
+│   │
+│   ├── wheelchair-propulsion/ &lt;-- Wheelchair propulsion device models & docs
+│   │   ├── <a href="./DTC-assistive-devices/wheelchair-propulsion/models/">models/</a>
+│   │   └── <a href="./DTC-assistive-devices/wheelchair-propulsion/assets/">assets/</a>
+│   │
+│   └── flexure-device/        &lt;-- Flexure mechanism models & docs
+│       ├── <a href="./DTC-assistive-devices/flexure-device/models/">models/</a>
+│       └── <a href="./DTC-assistive-devices/flexure-device/assets/">assets/</a>
 │
 ├── NUSTARS-rocketry/          &lt;-- Rocket fin geometries & CAM workflows
 │   ├── <a href="./NUSTARS-rocketry/README.md">README.md</a>
 │   ├── <a href="./NUSTARS-rocketry/models/">models/</a>
 │   └── <a href="./NUSTARS-rocketry/assets/">assets/</a>
 │
-| summer-robot-proposition 2025/         &lt;-- EXCEL McCormick School
+├── summer-robot-proposition 2025/         &lt;-- EXCEL McCormick School
 |   ├── <a href="./summer-network-ai/README.md">README.md</a>
 |   └── <a href="./summer-network-ai/assets/">assets/</a>
 |
