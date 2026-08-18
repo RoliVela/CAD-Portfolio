@@ -1,11 +1,11 @@
 # CAD-Portfolio
 
-Parametric CAD assemblies, CAM workflows, and hardware-software integration loops. Production-grade designs optimized for CNC machining, 3D printing, and real-world structural flight loads. These were used in school and personal projects with features in school publications and national competitions.
+CAD assemblies, CAM setups, and hardware files from my school and personal projects — assistive devices, rocketry components, and a few side builds. Most were machined (CNC, mill) or 3D printed and used in real competitions or publications.
 
 <pre>
 .
 ├── .gitignore
-├── README.md                  &lt;-- The main showroom for the whole profile
+├── README.md
 │
 ├── DTC-assistive-devices/     &lt;-- Wheelchair propulsion & flexure models
 │   ├── <a href="./DTC-assistive-devices/README.md">README.md</a>
